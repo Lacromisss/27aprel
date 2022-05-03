@@ -1,0 +1,55 @@
+.container{
+    max-width: 114rem;
+    margin: 0 auto;
+    width: 100%;
+}
+@import "main";
+.topHeader{
+    .container{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+       
+        
+        .logo{
+           
+            h1{
+               
+               font-size: 70px;
+               font-family: 'Changa', sans-serif;
+            }
+        }
+        .top-social-menu{
+            display: flex;
+            li{
+                margin: 0 1rem;
+                padding: 1rem;
+                
+            }
+        }
+        
+    }
+    }
+
+    @import url('https://fonts.googleapis.com/css2?family=Changa:wght@300&display=swap');
+    .btn{
+        font-size: 1.6rem;
+        background-color: $bg-red;
+        padding: 10px 20px;
+
+    }
+    .login-area{
+        #btn1{
+            background-color: $bg-red;
+            &:hover{
+                background-color: white;
+            }
+
+        }
+        #btn2{
+            background-color: $bg-light;
+            &:hover{
+                background: $bg-red;
+            }
+        }
+    }

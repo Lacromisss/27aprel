@@ -1,0 +1,43 @@
+.news{
+
+}
+.news .news-box{
+    width: 300px;
+}
+.news .news-box .img-box{
+   
+    height: 200px;
+    position: relative;
+
+}
+.news .news-box .img-box img{
+    max-width: 100%;
+
+}
+.news .news-box .img-box .date-time{
+    display: inline-block;
+    border: 1px solid black;
+    position: absolute;
+    left: 0;
+    top: 59%;
+    opacity: 0.9;
+
+}
+.news .news-box .img-box .date-time .date{
+    padding: 6px 14px;
+    background: #1894A0;
+
+}
+.news .news-box .img-box .date-time .time{    
+    padding: 2px 6px;
+    background: #1894A0;
+    font-size: 14px;
+    text-align: center;
+
+}
+.news-box .news-title{
+    background-color: rgb(44, 42, 42);
+    color: white;
+    font-size: 20px;
+    padding: 1px 1px 5px;
+}

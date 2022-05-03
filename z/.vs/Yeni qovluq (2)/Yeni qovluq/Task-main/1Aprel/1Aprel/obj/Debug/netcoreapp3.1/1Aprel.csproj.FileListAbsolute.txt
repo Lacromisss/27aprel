@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\codeacademy\1Aprel\1Aprel\bin\Debug\netcoreapp3.1\1Aprel.exe
+C:\Users\User\Desktop\codeacademy\1Aprel\1Aprel\bin\Debug\netcoreapp3.1\1Aprel.deps.json
+C:\Users\User\Desktop\codeacademy\1Aprel\1Aprel\bin\Debug\netcoreapp3.1\1Aprel.runtimeconfig.json
+C:\Users\User\Desktop\codeacademy\1Aprel\1Aprel\bin\Debug\netcoreapp3.1\1Aprel.runtimeconfig.dev.json
+C:\Users\User\Desktop\codeacademy\1Aprel\1Aprel\bin\Debug\netcoreapp3.1\1Aprel.dll
+C:\Users\User\Desktop\codeacademy\1Aprel\1Aprel\bin\Debug\netcoreapp3.1\1Aprel.pdb
+C:\Users\User\Desktop\codeacademy\1Aprel\1Aprel\obj\Debug\netcoreapp3.1\1Aprel.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\codeacademy\1Aprel\1Aprel\obj\Debug\netcoreapp3.1\1Aprel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\codeacademy\1Aprel\1Aprel\obj\Debug\netcoreapp3.1\1Aprel.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\codeacademy\1Aprel\1Aprel\obj\Debug\netcoreapp3.1\1Aprel.AssemblyInfo.cs
+C:\Users\User\Desktop\codeacademy\1Aprel\1Aprel\obj\Debug\netcoreapp3.1\1Aprel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\codeacademy\1Aprel\1Aprel\obj\Debug\netcoreapp3.1\1Aprel.dll
+C:\Users\User\Desktop\codeacademy\1Aprel\1Aprel\obj\Debug\netcoreapp3.1\1Aprel.pdb
+C:\Users\User\Desktop\codeacademy\1Aprel\1Aprel\obj\Debug\netcoreapp3.1\1Aprel.genruntimeconfig.cache

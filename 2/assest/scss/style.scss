@@ -1,0 +1,358 @@
+@import "main";
+.container {
+  width: 1140px;
+  margin: 0 auto;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+/*Colls*/
+.col-3 {
+  width: 25%;
+}
+.col-9 {
+  width: 75%;
+}
+.col-12 {
+  width: 100%;
+}
+/*Colls*/
+
+/*Default Colors*/
+$color-yellow: #f5e10e;
+$color-blue: #0b2875;
+$color-red: #ff0021;
+$color-brown: #333333;
+/*Default Colors*/
+/*Default Fonts*/
+@import url("https://fonts.googleapis.com/css2?family=Changa:wght@300&family=Dosis:wght@300&family=Montserrat:ital,wght@1,200&display=swap");
+$font-family1: "Montserrat", sans-serif;
+/*Default Fonts*/
+/*MENU BAR*/
+.menubar {
+  width: 100%;
+  height: 90px;
+  background-color: $color-brown;
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+
+  a {
+    box-sizing: border-box;
+    color: $color-yellow;
+    font: size 12px;
+    font-family: $font-family1;
+    text-decoration: none;
+    padding: 12px 10px;
+    background-color: $color-brown;
+    transition: 0.4s;
+    &:hover {
+      background-color: $color-yellow;
+      color: $color-brown;
+    }
+  }
+}
+.as {
+  box-sizing: border-box;
+  padding-top: 25px;
+}
+/*MENU BAR*/
+/*buttons*/
+.container1 {
+  margin-top: 1rem;
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 14px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.container1 input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+}
+.container1:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+.container input:checked ~ .checkmark {
+  background-color: #2196f3;
+}
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+.container1 input:checked ~ .checkmark:after {
+  display: block;
+}
+.container1 .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.button1 {
+  border-bottom: 1px lightgrey solid;
+}
+.reset {
+  font-size: 12.75px;
+  font-family: $font-family1;
+}
+.resetcik {
+  padding: 11px 15px;
+  background-color: #eeeeee;
+  width: 96px;
+  height: 15px;
+  border-radius: 15%;
+}
+.txtt {
+  font-size: 10px;
+  font-family: $font-family1;
+  color: #434343;
+}
+.card {
+  #qiymet {
+    color: $color-red;
+    font-size: 17px;
+    font-family: $font-family1;
+  }
+}
+.color {
+  color: #ff0021;
+  font-size: 17px;
+  font-family: $font-family1;
+  font-weight: bold;
+}
+.button_1 {
+  display: flex;
+}
+.sale {
+  width: 110px;
+  height: 60px;
+  background-color: $color-yellow;
+  font-size: 14px;
+  margin: 0 0 0 42px;
+  a {
+    color: $color-red;
+    text-decoration: none;
+
+    text-align: center;
+  }
+  p {
+    text-align: center;
+  }
+}
+.satis {
+  display: flex;
+  margin-left: 25px;
+}
+.sebet {
+  box-sizing: border-box;
+  width: 110px;
+  height: 40px;
+  font-size: 10px;
+  color: white;
+  font-family: $font-family1;
+  padding: 5px 14px;
+  background-color: $color-blue;
+  margin-top: 5px;
+  &:hover {
+    background-color: rgb(12, 104, 134);
+  }
+}
+.kredit {
+  box-sizing: border-box;
+  width: 110px;
+  height: 40px;
+  font-size: 10px;
+  color: white;
+  font-family: $font-family1;
+  padding: 5px 14px;
+  background-color: $color-blue;
+  margin-left: 23px;
+  margin-top: 5px;
+  &:hover {
+    background-color: rgb(12, 104, 134);
+  }
+}
+
+.card2 {
+  margin-left: 35px;
+
+  position: relative;
+  z-index: 2;
+
+  &:hover {
+    box-shadow: 0 0 25px rgba(33, 33, 33, 0.2);
+  }
+}
+.title {
+  border-bottom: 1px #8f8f8f solid;
+
+  h1 {
+    font-size: 24px;
+    color: #363636;
+  }
+  p {
+    font-size: 13px;
+    color: #8f8f8f;
+  }
+}
+.filtered {
+  width: 214px;
+  height: 45.5px;
+  background-color: rgb(248, 245, 245);
+  margin-left: 10px;
+  text-align: center;
+  transition: 0.6s;
+  &:hover {
+    background-color: rgb(170, 169, 169);
+  }
+  a {
+    color: #000;
+    font-size: 13px;
+    font-family: $font-family1;
+    text-decoration: none;
+  }
+}
+.filteredTop {
+  display: flex;
+  margin: 0 0 40px 270px;
+  text-decoration: none;
+}
+.tooltip {
+  display: inline;
+  position: relative;
+  z-index: 50;
+}
+.tooltip:hover:after {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  background: #444;
+  border-radius: 8px;
+  color: #fff;
+  content: attr(title);
+  margin: -300px 0 0 230px;
+  font-size: 16px;
+  padding: 13px;
+  width: 60px;
+  height: 80px;
+  z-index: 50;
+}
+.tooltip:hover:before {
+  border: solid;
+  border-color: #444 transparent;
+  border-width: 12px 6px 0 6px;
+  content: "";
+  left: 45%;
+  bottom: 30px;
+  position: absolute;
+  z-index: 50;
+}
+.images {
+  z-index: 1;
+}
+.iconn {
+  margin: 100px 0 0 100px;
+  display: flex;
+}
+.icons {
+  box-sizing: border-box;
+  height: 95px;
+  margin: 0 0 0 190px;
+  padding: 35px 0 0 0;
+
+  border-right: 1px rgb(139, 138, 138) solid;
+}
+.iconn2 {
+  display: flex;
+  margin-left: -25px;
+}
+.icons2 {
+  margin: 0 0 0 20px;
+  border: 1px gray solid;
+  padding: 5px;
+  &:hover {
+    background-color: #2196f3;
+  }
+}
+#u {
+  &:hover {
+    background-color: rebeccapurple;
+  }
+}
+#s {
+  &:hover {
+    background-color: rgb(51, 73, 199);
+  }
+}
+#t {
+  &:hover {
+    background-color: red;
+  }
+}
+#a {
+  &:hover {
+    background-color: rgb(93, 60, 212);
+  }
+}
+#f {
+  &:hover {
+    background-color: lightblue;
+  }
+}
+#aa {
+  &:hover {
+    background-color: rgb(163, 34, 34);
+  }
+}
+.TXT {
+  margin: 40px 0 0 245px;
+}
+.txtt2 {
+  margin-left: 275px;
+  margin-top: 45px;
+  &:hover {
+    color: #2196f3;
+  }
+}
+#elaqe {
+  color: white;
+}
+#num {
+  color: white;
+  &:hover {
+    color: #2196f3;
+  }
+}
+.all {
+  background-color: #8f8f8f;
+  width: 200%;
+}

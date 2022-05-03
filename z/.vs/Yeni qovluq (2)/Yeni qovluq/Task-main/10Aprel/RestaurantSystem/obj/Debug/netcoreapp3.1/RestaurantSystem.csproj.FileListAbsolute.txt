@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\codeacademy\10Aprel\RestaurantSystem\bin\Debug\netcoreapp3.1\RestaurantSystem.exe
+C:\Users\User\Desktop\codeacademy\10Aprel\RestaurantSystem\bin\Debug\netcoreapp3.1\RestaurantSystem.deps.json
+C:\Users\User\Desktop\codeacademy\10Aprel\RestaurantSystem\bin\Debug\netcoreapp3.1\RestaurantSystem.runtimeconfig.json
+C:\Users\User\Desktop\codeacademy\10Aprel\RestaurantSystem\bin\Debug\netcoreapp3.1\RestaurantSystem.runtimeconfig.dev.json
+C:\Users\User\Desktop\codeacademy\10Aprel\RestaurantSystem\bin\Debug\netcoreapp3.1\RestaurantSystem.dll
+C:\Users\User\Desktop\codeacademy\10Aprel\RestaurantSystem\bin\Debug\netcoreapp3.1\RestaurantSystem.pdb
+C:\Users\User\Desktop\codeacademy\10Aprel\RestaurantSystem\bin\Debug\netcoreapp3.1\RestaurantOrderSystem.dll
+C:\Users\User\Desktop\codeacademy\10Aprel\RestaurantSystem\bin\Debug\netcoreapp3.1\RestaurantOrderSystem.pdb
+C:\Users\User\Desktop\codeacademy\10Aprel\RestaurantSystem\obj\Debug\netcoreapp3.1\RestaurantSystem.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\codeacademy\10Aprel\RestaurantSystem\obj\Debug\netcoreapp3.1\RestaurantSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\codeacademy\10Aprel\RestaurantSystem\obj\Debug\netcoreapp3.1\RestaurantSystem.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\codeacademy\10Aprel\RestaurantSystem\obj\Debug\netcoreapp3.1\RestaurantSystem.AssemblyInfo.cs
+C:\Users\User\Desktop\codeacademy\10Aprel\RestaurantSystem\obj\Debug\netcoreapp3.1\RestaurantSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\codeacademy\10Aprel\RestaurantSystem\obj\Debug\netcoreapp3.1\RestaurantSystem.csproj.CopyComplete
+C:\Users\User\Desktop\codeacademy\10Aprel\RestaurantSystem\obj\Debug\netcoreapp3.1\RestaurantSystem.dll
+C:\Users\User\Desktop\codeacademy\10Aprel\RestaurantSystem\obj\Debug\netcoreapp3.1\RestaurantSystem.pdb
+C:\Users\User\Desktop\codeacademy\10Aprel\RestaurantSystem\obj\Debug\netcoreapp3.1\RestaurantSystem.genruntimeconfig.cache

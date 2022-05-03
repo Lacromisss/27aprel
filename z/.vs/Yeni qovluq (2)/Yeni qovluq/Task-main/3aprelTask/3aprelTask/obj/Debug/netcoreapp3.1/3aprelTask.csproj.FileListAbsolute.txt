@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\codeacademy\3aprelTask\3aprelTask\obj\Debug\netcoreapp3.1\3aprelTask.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\codeacademy\3aprelTask\3aprelTask\obj\Debug\netcoreapp3.1\3aprelTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\codeacademy\3aprelTask\3aprelTask\obj\Debug\netcoreapp3.1\3aprelTask.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\codeacademy\3aprelTask\3aprelTask\obj\Debug\netcoreapp3.1\3aprelTask.AssemblyInfo.cs
+C:\Users\User\Desktop\codeacademy\3aprelTask\3aprelTask\obj\Debug\netcoreapp3.1\3aprelTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\codeacademy\3aprelTask\3aprelTask\bin\Debug\netcoreapp3.1\3aprelTask.exe
+C:\Users\User\Desktop\codeacademy\3aprelTask\3aprelTask\bin\Debug\netcoreapp3.1\3aprelTask.deps.json
+C:\Users\User\Desktop\codeacademy\3aprelTask\3aprelTask\bin\Debug\netcoreapp3.1\3aprelTask.runtimeconfig.json
+C:\Users\User\Desktop\codeacademy\3aprelTask\3aprelTask\bin\Debug\netcoreapp3.1\3aprelTask.runtimeconfig.dev.json
+C:\Users\User\Desktop\codeacademy\3aprelTask\3aprelTask\bin\Debug\netcoreapp3.1\3aprelTask.dll
+C:\Users\User\Desktop\codeacademy\3aprelTask\3aprelTask\bin\Debug\netcoreapp3.1\3aprelTask.pdb
+C:\Users\User\Desktop\codeacademy\3aprelTask\3aprelTask\obj\Debug\netcoreapp3.1\3aprelTask.dll
+C:\Users\User\Desktop\codeacademy\3aprelTask\3aprelTask\obj\Debug\netcoreapp3.1\3aprelTask.pdb
+C:\Users\User\Desktop\codeacademy\3aprelTask\3aprelTask\obj\Debug\netcoreapp3.1\3aprelTask.genruntimeconfig.cache

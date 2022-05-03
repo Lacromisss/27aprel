@@ -1,0 +1,13 @@
+C:\Users\lacro\source\repos\ConsoleApp56\Servicess\obj\Debug\netcoreapp3.1\Servicess.csproj.AssemblyReference.cache
+C:\Users\lacro\source\repos\ConsoleApp56\Servicess\obj\Debug\netcoreapp3.1\Servicess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lacro\source\repos\ConsoleApp56\Servicess\obj\Debug\netcoreapp3.1\Servicess.AssemblyInfoInputs.cache
+C:\Users\lacro\source\repos\ConsoleApp56\Servicess\obj\Debug\netcoreapp3.1\Servicess.AssemblyInfo.cs
+C:\Users\lacro\source\repos\ConsoleApp56\Servicess\obj\Debug\netcoreapp3.1\Servicess.csproj.CoreCompileInputs.cache
+C:\Users\lacro\source\repos\ConsoleApp56\Servicess\bin\Debug\netcoreapp3.1\Servicess.deps.json
+C:\Users\lacro\source\repos\ConsoleApp56\Servicess\bin\Debug\netcoreapp3.1\Servicess.dll
+C:\Users\lacro\source\repos\ConsoleApp56\Servicess\bin\Debug\netcoreapp3.1\Servicess.pdb
+C:\Users\lacro\source\repos\ConsoleApp56\Servicess\bin\Debug\netcoreapp3.1\Modelss.dll
+C:\Users\lacro\source\repos\ConsoleApp56\Servicess\bin\Debug\netcoreapp3.1\Modelss.pdb
+C:\Users\lacro\source\repos\ConsoleApp56\Servicess\obj\Debug\netcoreapp3.1\Servicess.csproj.CopyComplete
+C:\Users\lacro\source\repos\ConsoleApp56\Servicess\obj\Debug\netcoreapp3.1\Servicess.dll
+C:\Users\lacro\source\repos\ConsoleApp56\Servicess\obj\Debug\netcoreapp3.1\Servicess.pdb

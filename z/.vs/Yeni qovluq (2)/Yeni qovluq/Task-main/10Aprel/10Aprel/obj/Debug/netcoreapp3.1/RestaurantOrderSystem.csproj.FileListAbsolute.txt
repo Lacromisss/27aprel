@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\codeacademy\10Aprel\10Aprel\bin\Debug\netcoreapp3.1\RestaurantOrderSystem.deps.json
+C:\Users\User\Desktop\codeacademy\10Aprel\10Aprel\bin\Debug\netcoreapp3.1\RestaurantOrderSystem.dll
+C:\Users\User\Desktop\codeacademy\10Aprel\10Aprel\bin\Debug\netcoreapp3.1\RestaurantOrderSystem.pdb
+C:\Users\User\Desktop\codeacademy\10Aprel\10Aprel\obj\Debug\netcoreapp3.1\RestaurantOrderSystem.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\codeacademy\10Aprel\10Aprel\obj\Debug\netcoreapp3.1\RestaurantOrderSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\codeacademy\10Aprel\10Aprel\obj\Debug\netcoreapp3.1\RestaurantOrderSystem.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\codeacademy\10Aprel\10Aprel\obj\Debug\netcoreapp3.1\RestaurantOrderSystem.AssemblyInfo.cs
+C:\Users\User\Desktop\codeacademy\10Aprel\10Aprel\obj\Debug\netcoreapp3.1\RestaurantOrderSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\codeacademy\10Aprel\10Aprel\obj\Debug\netcoreapp3.1\RestaurantOrderSystem.dll
+C:\Users\User\Desktop\codeacademy\10Aprel\10Aprel\obj\Debug\netcoreapp3.1\RestaurantOrderSystem.pdb

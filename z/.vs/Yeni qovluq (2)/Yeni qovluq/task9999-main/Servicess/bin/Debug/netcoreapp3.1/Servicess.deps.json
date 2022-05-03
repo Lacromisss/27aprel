@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Servicess/1.0.0": {
+        "dependencies": {
+          "Modelss": "1.0.0"
+        },
+        "runtime": {
+          "Servicess.dll": {}
+        }
+      },
+      "Modelss/1.0.0": {
+        "runtime": {
+          "Modelss.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Servicess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Modelss/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

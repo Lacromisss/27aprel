@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Changa:wght@300&display=swap");
+.container {
+  max-width: 114rem;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.topHeader .container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.topHeader .container .logo h1 {
+  font-size: 70px;
+  font-family: 'Changa', sans-serif;
+}
+
+.topHeader .container .top-social-menu {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.topHeader .container .top-social-menu li {
+  margin: 0 1rem;
+  padding: 1rem;
+}
+
+.btn {
+  font-size: 1.6rem;
+  background-color: #e51515;
+  padding: 10px 20px;
+}
+
+.login-area #btn1 {
+  background-color: #e51515;
+}
+
+.login-area #btn1:hover {
+  background-color: white;
+}
+
+.login-area #btn2 {
+  background-color: #fefefe;
+}
+
+.login-area #btn2:hover {
+  background: #e51515;
+}
+/*# sourceMappingURL=stylee.css.map */

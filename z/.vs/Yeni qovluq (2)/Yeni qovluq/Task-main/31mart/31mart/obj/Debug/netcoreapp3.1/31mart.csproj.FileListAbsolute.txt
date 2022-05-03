@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\codeacademy\31mart\31mart\bin\Debug\netcoreapp3.1\31mart.exe
+C:\Users\User\Desktop\codeacademy\31mart\31mart\bin\Debug\netcoreapp3.1\31mart.deps.json
+C:\Users\User\Desktop\codeacademy\31mart\31mart\bin\Debug\netcoreapp3.1\31mart.runtimeconfig.json
+C:\Users\User\Desktop\codeacademy\31mart\31mart\bin\Debug\netcoreapp3.1\31mart.runtimeconfig.dev.json
+C:\Users\User\Desktop\codeacademy\31mart\31mart\bin\Debug\netcoreapp3.1\31mart.dll
+C:\Users\User\Desktop\codeacademy\31mart\31mart\bin\Debug\netcoreapp3.1\31mart.pdb
+C:\Users\User\Desktop\codeacademy\31mart\31mart\obj\Debug\netcoreapp3.1\31mart.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\codeacademy\31mart\31mart\obj\Debug\netcoreapp3.1\31mart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\codeacademy\31mart\31mart\obj\Debug\netcoreapp3.1\31mart.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\codeacademy\31mart\31mart\obj\Debug\netcoreapp3.1\31mart.AssemblyInfo.cs
+C:\Users\User\Desktop\codeacademy\31mart\31mart\obj\Debug\netcoreapp3.1\31mart.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\codeacademy\31mart\31mart\obj\Debug\netcoreapp3.1\31mart.dll
+C:\Users\User\Desktop\codeacademy\31mart\31mart\obj\Debug\netcoreapp3.1\31mart.pdb
+C:\Users\User\Desktop\codeacademy\31mart\31mart\obj\Debug\netcoreapp3.1\31mart.genruntimeconfig.cache

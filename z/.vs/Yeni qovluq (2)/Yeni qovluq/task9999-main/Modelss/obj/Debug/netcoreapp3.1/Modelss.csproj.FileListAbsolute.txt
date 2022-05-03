@@ -1,0 +1,10 @@
+C:\Users\lacro\source\repos\ConsoleApp56\Modelss\bin\Debug\netcoreapp3.1\Modelss.deps.json
+C:\Users\lacro\source\repos\ConsoleApp56\Modelss\bin\Debug\netcoreapp3.1\Modelss.dll
+C:\Users\lacro\source\repos\ConsoleApp56\Modelss\bin\Debug\netcoreapp3.1\Modelss.pdb
+C:\Users\lacro\source\repos\ConsoleApp56\Modelss\obj\Debug\netcoreapp3.1\Modelss.csproj.AssemblyReference.cache
+C:\Users\lacro\source\repos\ConsoleApp56\Modelss\obj\Debug\netcoreapp3.1\Modelss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lacro\source\repos\ConsoleApp56\Modelss\obj\Debug\netcoreapp3.1\Modelss.AssemblyInfoInputs.cache
+C:\Users\lacro\source\repos\ConsoleApp56\Modelss\obj\Debug\netcoreapp3.1\Modelss.AssemblyInfo.cs
+C:\Users\lacro\source\repos\ConsoleApp56\Modelss\obj\Debug\netcoreapp3.1\Modelss.csproj.CoreCompileInputs.cache
+C:\Users\lacro\source\repos\ConsoleApp56\Modelss\obj\Debug\netcoreapp3.1\Modelss.dll
+C:\Users\lacro\source\repos\ConsoleApp56\Modelss\obj\Debug\netcoreapp3.1\Modelss.pdb

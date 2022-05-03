@@ -1,0 +1,30 @@
+header{
+    padding: 10px 0;
+    .navbar-brand{
+        display: flex;
+    }
+    .logo-text{
+        font-size: 25px;
+        padding-left: 10px;
+        color: $text-color;
+        font-weight: 700;
+    }
+    .navbar-nav{
+        li{
+            padding-left: 15px;
+            a{
+                color: $text-color;
+                font-weight: 600;
+            }
+            .btn{
+                background-color: #4154f1;
+                color: #fff;
+                padding: 8px 20px !important;
+                transition: all .3s;
+                &:hover{
+                    opacity: 0.8;
+                }
+            }
+        }
+    }
+}

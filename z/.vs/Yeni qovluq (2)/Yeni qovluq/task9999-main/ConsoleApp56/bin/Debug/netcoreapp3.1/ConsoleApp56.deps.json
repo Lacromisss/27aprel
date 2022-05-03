@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleApp56/1.0.0": {
+        "dependencies": {
+          "Modelss": "1.0.0",
+          "Servicess": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApp56.dll": {}
+        }
+      },
+      "Modelss/1.0.0": {
+        "runtime": {
+          "Modelss.dll": {}
+        }
+      },
+      "Servicess/1.0.0": {
+        "dependencies": {
+          "Modelss": "1.0.0"
+        },
+        "runtime": {
+          "Servicess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp56/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Modelss/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Servicess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

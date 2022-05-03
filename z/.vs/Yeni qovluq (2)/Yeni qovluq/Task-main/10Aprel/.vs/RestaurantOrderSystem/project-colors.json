@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6a8e268a-c0eb-401f-9779-5e405f5baf71": {
+      "ProjectGuid": "6a8e268a-c0eb-401f-9779-5e405f5baf71",
+      "DisplayName": "RestaurantOrderSystem",
+      "ColorIndex": 0
+    },
+    "1bb8fc18-4442-4235-960a-94146e75774e": {
+      "ProjectGuid": "1bb8fc18-4442-4235-960a-94146e75774e",
+      "DisplayName": "RestaurantOrderSystem",
+      "ColorIndex": 1
+    },
+    "0eb3626a-e03c-448d-9684-f200ef5224fe": {
+      "ProjectGuid": "0eb3626a-e03c-448d-9684-f200ef5224fe",
+      "DisplayName": "RestaurantSystem",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
